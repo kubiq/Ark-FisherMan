@@ -13,7 +13,7 @@ Donate and help me with my coffee addiction so I can stay up late and develop ot
 - [x] Ark Survival Evolved (Genesis) - Healthy (vXXX.XXX)
 
 # Compatible Resolutions
-- [x] 1920x1080
+Should work on all resolutions (FullHD, 2K, 4K...)
 
 # localization Support
 - [x] Russian (BIG THANK YOU TO '[alexusfree](https://github.com/alexusfree))' for the Russian translation and improvements on the script! - [alexusfree](https://github.com/alexusfree/ARK-Fisher-Rus). Remember to thank him||her when using the Russian version :)
@@ -85,7 +85,7 @@ If none of the above work, try reset the game settings to default.
 - Enter Game.
 - Sit Down on bench or chair.
 - Cast Rod, Press F5 and wait
-- Stop fishing script with F5
+- Stop fishing script with F6
 
 
 # FISHING BAIT USAGE
@@ -93,7 +93,7 @@ If none of the above work, try reset the game settings to default.
 | ------------- |:-------------:| -----:|
 | Sap               | Coelacanth                                  |   0.94 |
 | Leech Blood       | Coelacanth, Sabertooth Salmon, Piranha      |   1.88 |
-| Giant Bee Honey   | Coelacanth, Sabertooth Salmon, Piranha      |    2.2 |
+| Giant Bee Honey   | Coelacanth, Sabertooth Salmon, Piranha      |    2.4 |
 Visit: http://ark.gamepedia.com/Fishing_Rod For more information
 
 # Line Snap Reasons
